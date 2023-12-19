@@ -99,6 +99,21 @@ h6 {
   color: #fff;
 }
 
+#header .logo-collection {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 1px;
+  font-family: "Poppins", sans-serif;
+  
+}
+
+#header .logo-collection a {
+  color: #47b31d;
+}
+
 #header .logo img {
   max-height: 40px;
 }
@@ -148,7 +163,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffc107;
+  color: #47b31d;
 }
 
 .navbar .dropdown ul {
@@ -184,7 +199,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffc107;
+  color: #47b31d;
 }
 
 .navbar .dropdown:hover>ul {
@@ -205,6 +220,51 @@ h6 {
   left: 100%;
   visibility: visible;
 }
+
+.navbar-collection {
+  padding: 0;
+}
+
+.navbar-collection ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.navbar-collection li {
+  position: relative;
+}
+
+.navbar-collection a,
+.navbar-collection a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  color: #000000;
+  font-size: 14px;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+
+.navbar-collection a i,
+.navbar-collection a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+
+.navbar-collection a:hover,
+.navbar-collection .active,
+.navbar-collection .active:focus,
+.navbar-collection li:hover>a {
+  color: #47b31d;
+}
+/*
+  color: #ffc107;
+*/
 
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
@@ -372,12 +432,12 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin-top: 40px;
-  border: 2px solid #ffc107;
+  border: 2px solid #47b31d;
   color: #fff;
 }
 
 #hero .btn-get-started:hover {
-  background: #ffc107;
+  background: #47b31d;
 }
 
 @media (min-width: 1024px) {
@@ -440,8 +500,8 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  font-size: 14px;
-  color: #aab3c7;
+  font-size: 18px;
+  color: #171717;
 }
 
 /*--------------------------------------------------------------
@@ -549,13 +609,13 @@ section {
 }
 
 .about i {
-  font-size: 48px;
+  font-size: 17px;
   margin-top: 15px;
   color: #8b97b3;
 }
 
 .about p {
-  font-size: 15px;
+  font-size: 18px;
   color: #848484;
 }
 
@@ -838,7 +898,7 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 8px 18px 10px 18px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1;
   color: #444444;
@@ -861,6 +921,12 @@ section {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
   overflow: hidden;
+}
+
+.portfolio .portfolio-item p {
+  color: #000000;
+  font-size: 20px;
+  margin-bottom: 0;
 }
 
 .portfolio .portfolio-item img {
@@ -889,7 +955,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-info p {
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom: 0;
 }
 
