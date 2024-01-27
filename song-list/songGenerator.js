@@ -1,7 +1,7 @@
 function generateSongList() {
 	const songName = Object.keys(songCollection);
+	const divPortfolioContainer = document.querySelector("#portfolio > div > div.row.portfolio-container");
 	for (const i of songName){
-		const divPortfolioContainer = document.querySelector("#portfolio > div > div.row.portfolio-container");
 		const songNameText = document.createTextNode(i);
 		const songCategory = songCollection[i]["category"];
 
@@ -50,10 +50,3 @@ function generateSongList() {
 	}
 }
 generateSongList();
-/*
-const newDiv = document.createElement("div");  // createElement(element, {attribute: "attribute value"})
-const newContent = document.createTextNode("Hi there and greetings!");
-newDiv.appendChild(newContent);
-
-document.querySelector("#portfolio > div > div.row.portfolio-container").append(newDiv)  / select the portfolio-container
-*/
