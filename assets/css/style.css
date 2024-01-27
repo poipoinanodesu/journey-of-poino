@@ -33,6 +33,10 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.mathEquation{
+  font-size: 28px;	
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -43,7 +47,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffc107;
+  background: #47b31d;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,7 +61,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ffcb30;
+  background: #9aeb7a;
   color: #fff;
 }
 
@@ -385,13 +389,13 @@ h6 {
 #hero .btn-get-started {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 30px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 9px 35px;
-  border-radius: 50px;
+  border-radius: 80px;
   transition: 0.5s;
-  margin-top: 40px;
+  margin-top: 90px;
   border: 2px solid #47b31d;
   color: #fff;
 }
@@ -1273,7 +1277,7 @@ margin-top: 82px;
   position: absolute;
   right: 0;
   left: 20px;
-  color: #ffce3a;
+  color: #47b31d;
 }
 
 .faq .faq-list .icon-show,
