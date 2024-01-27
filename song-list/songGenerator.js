@@ -24,7 +24,7 @@ function generateSongList() {
 		
 		const songMega = songCollection[i]["linkMega"];
 		const megaText = document.createElement("p");
-		const megaPdfText = document.createTextNode("pdf:");
+		const megaPdfText = document.createTextNode("pdf: ");
 		megaText.appendChild(megaPdfText);
 		const megaRawText = document.createTextNode("raw");
 		const megaRawLink = document.createElement("a");
