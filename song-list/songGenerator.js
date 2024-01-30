@@ -21,15 +21,12 @@ function generateSongList(sortBy = "alphabetically") {
         divSong.classList.add("col-lg-4", "col-md-6", "portfolio-item", `filter-${songData.category}`);
 
         const museText = document.createElement("p");
-        const songNameText = document.createTextNode(song);
 
         if (songData.linkMusescore) {
-            const museLink = document.createElement("a");
-            museLink.setAttribute("href", songData.linkMusescore);
-            museLink.setAttribute("target", "_blank");
-            museLink.appendChild(songNameText);
+            const museLink = createLink(linkText = song, linkDestination = songData.linkMusescore);
             museText.appendChild(museLink);
         } else {
+			const songNameText = document.createTextNode(song);
             museText.appendChild(songNameText);
         }
 
@@ -37,12 +34,12 @@ function generateSongList(sortBy = "alphabetically") {
 
         const megaText = document.createElement("p");
         const megaPdfText = document.createTextNode("pdf: ");
-        const megaRawLink = createLink(songData.linkMega);
+        const megaRawLink = createLink(linkText = "raw",linkDestination = songData.linkMega);
         megaText.append(megaPdfText, megaRawLink);
 
         if (songData.linkMegaComment) {
             const megaDecorText = document.createTextNode("|");
-            const megaCommentLink = createLink(songData.linkMegaComment, withComment = true);
+            const megaCommentLink = createLink(linkText = "with comment",linkDestination = songData.linkMegaComment);
             megaText.append(megaDecorText, megaCommentLink);
         }
 
@@ -51,15 +48,12 @@ function generateSongList(sortBy = "alphabetically") {
     }
 }
 
-function createLink(href, withComment = false) {
+function createLink(linkText = "", linkDestination = "") {
     const link = document.createElement("a");
-    link.setAttribute("href", href);
+    link.setAttribute("href", linkDestination);
     link.setAttribute("target", "_blank");
-	if (withComment) {
-    link.appendChild(document.createTextNode("with comment"));
-	} else {
-	link.appendChild(document.createTextNode("raw"));	
-	}		
+    link.appendChild(document.createTextNode(linkText));
+	
     return link;
 }
 
