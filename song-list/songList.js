@@ -259,7 +259,7 @@ const songCollection = {
 "category": "modern",
 "linkMusescore": "https://musescore.com/user/18011801/scores/13251283",
 "linkMega": "https://mega.nz/file/nOBgwL7Y#Z7fgMtbpTEOF0VTfHDW4S_BAZn7Ejc3791qwDiRfXqQ",
-"linkMegaComment": "https://mega.nz/file/mGowXZDD#KIRuqahoFtm6XQqgiJuTv7BFkCMlBaBYGfxe1aPVsHM",
+"linkMegaComment": "https://mega.nz/file/mCY3EIwD#zJ8zWtIrV-L-m3S4AMlbSVAT3WmEuf-4JdXYloxw1sE",
 },
 
 };
