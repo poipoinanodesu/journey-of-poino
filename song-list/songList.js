@@ -262,4 +262,10 @@ const songCollection = {
 "linkMegaComment": "https://mega.nz/file/mCY3EIwD#zJ8zWtIrV-L-m3S4AMlbSVAT3WmEuf-4JdXYloxw1sE",
 },
 
+"Namida Ame - wa.": {
+"category": "modern",
+"linkMusescore": "https://musescore.com/user/18011801/scores/14230459",
+"linkMega": "https://mega.nz/file/3OggzTSC#n4tIKZ0mMC6Uva4gD9AnZnCO8jTAWwRZnaVXVztOEk0",
+},
+
 };
