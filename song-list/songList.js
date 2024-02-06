@@ -268,7 +268,7 @@ const songCollection = {
 "linkMega": "https://mega.nz/file/3OggzTSC#n4tIKZ0mMC6Uva4gD9AnZnCO8jTAWwRZnaVXVztOEk0",
 },
 
-"Luminous Memory - Mitsukiyo": {
+"Luminous Memory - Blue Archive": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/14297044",
 "linkMega": "https://mega.nz/file/7OJgmZZa#Cf8PJvAaNLa1gpDEktfXQd8bbADjHQS1kxMHlRgBoKc",
