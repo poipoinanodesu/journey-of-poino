@@ -34,12 +34,12 @@ function generateSongList(sortBy = "alphabetically") {
 
         const megaText = document.createElement("p");
         const megaPdfText = document.createTextNode("pdf: ");
-        const megaRawLink = createLink(linkText = "raw",linkDestination = songData.linkMega);
+        const megaRawLink = createLink(linkText = "raw", linkDestination = songData.linkMega);
         megaText.append(megaPdfText, megaRawLink);
 
         if (songData.linkMegaComment) {
             const megaDecorText = document.createTextNode("|");
-            const megaCommentLink = createLink(linkText = "with comment",linkDestination = songData.linkMegaComment);
+            const megaCommentLink = createLink(linkText = "with comment", linkDestination = songData.linkMegaComment);
             megaText.append(megaDecorText, megaCommentLink);
         }
 
