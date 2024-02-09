@@ -271,7 +271,7 @@ const songCollection = {
 "Luminous Memory - Blue Archive": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/14297044",
-"linkMega": "https://mega.nz/file/7OJgmZZa#Cf8PJvAaNLa1gpDEktfXQd8bbADjHQS1kxMHlRgBoKc",
+"linkMega": "https://mega.nz/file/KbR11a6Z#Te1FKzgZhjbbvZq8Q6Qw2YQzfIppcPkB7hrdqLoRcg8",
 },
 
 };
