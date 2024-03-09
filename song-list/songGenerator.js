@@ -64,7 +64,7 @@ function sortSongs() {
 
     // Clear existing content in portfolio-container
     const divPortfolioContainer = document.querySelector("#portfolio > div > div.row.portfolio-container");
-    divPortfolioContainer.innerHTML = "";
+    divPortfolioContainer.textContent = "";
 
     // Call generateSongList with the selected sorting option
     generateSongList(selectedSortOption);
