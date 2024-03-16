@@ -274,4 +274,9 @@ const songCollection = {
 "linkMega": "https://mega.nz/file/KbR11a6Z#Te1FKzgZhjbbvZq8Q6Qw2YQzfIppcPkB7hrdqLoRcg8",
 },
 
+"Kiss the Rain - Yiruma": {
+"category": "modern",
+"linkMega": "https://mega.nz/file/vPoD1QBS#hBxlwwo9buF1JT89ca-Ziuc4nMFPnLfXJ-dbgkegkY8",
+},
+
 };
