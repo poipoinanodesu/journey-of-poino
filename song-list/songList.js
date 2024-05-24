@@ -272,6 +272,7 @@ const songCollection = {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/14297044",
 "linkMega": "https://mega.nz/file/zeRnBDQJ#Z2L36Vmq9H_xTNg3pPn7UMKvfTQY_vE4iSytLg1Klzg",
+"linkMegaComment": "https://mega.nz/file/TDR0wB5C#tWqYNoK26ofxgruyJvXrjcgW69gVxx7AnQRDncjyYP8",
 },
 
 "Kiss the Rain - Yiruma": {
