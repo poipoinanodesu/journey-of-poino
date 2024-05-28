@@ -120,7 +120,7 @@ const songCollection = {
 "Ori Theme and Variation - Ori": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/6926669",
-"linkMega": "https://mega.nz/file/aapVUAzL#lQDb0pJIRp3ALkDSDZckTPfrV1_QuXFJJLM6_uRLWQU",
+"linkMega": "https://mega.nz/file/aOZjQZTY#-COSPmdYn_pJ-sCIDVk3LFyTWBGLZ352U5lV2TVGOyE",
 },
 
 "Tatakai no Hate - Rozen Maiden": {
