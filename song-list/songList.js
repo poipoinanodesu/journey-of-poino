@@ -161,7 +161,7 @@ const songCollection = {
 "Grandma - NieR Gestalt and Replicant Piano Collection": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/7883366",
-"linkMega": "https://mega.nz/file/bWhQAIpZ#WcAoe9iGmPLkk5rOfWaDfYnuV7J8V3JFvCqpWlEwUBg",
+"linkMega": "https://mega.nz/file/6WRzELST#wc1Zz94cxTeWyaFSTSLRjS331AoMSh0jSFme_vbp31Y",
 },
 
 "Hirari, Hirari - Tamaazu-p": {
