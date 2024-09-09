@@ -1594,3 +1594,9 @@ margin-top: 82px;
   background: #ffce3a;
   text-decoration: none;
 }
+
+#portfolio > div > label {
+  padding: 1rem 0 0 0;
+  font-size: 1.5rem;
+  color: #47b31d;
+}
