@@ -38,7 +38,7 @@ const songCollection = {
 "Kaze no Toori Michi - Tonari no Totoro (restricted to Japan)": {
 "category": "anime",
 "linkMusescore": "https://musescore.com/user/18011801/scores/5723359",
-"linkMega": "https://mega.nz/file/7agFkCQC#Js424bZSIHfMj8JiNGJPzy_ouDHCT9P6Sy49f6GEne4",
+"linkMega": "https://mega.nz/file/aHYn1QyJ#-eB4E48NtNoKo_I9uacnlMt3cRYuvp-SjWQnfuMhb3c",
 },
 
 "Yume to Hazakura - Aoki Gekkou": {
