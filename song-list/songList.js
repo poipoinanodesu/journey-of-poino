@@ -281,4 +281,10 @@ const songCollection = {
 "linkMegaComment": "https://mega.nz/file/CDYw1YqY#3JzTX5od1i5B065PbmwkF4jmIHzu2c6TCzuSYFcalUQ",
 },
 
+"Vague Hope - NieR Automata Piano Collection": {
+"category": "game",
+"linkMusescore": "https://musescore.com/user/18011801/scores/21015622",
+"linkMega": "https://mega.nz/file/DHIVmDDR#7NfTA8DaJD9WDoWqiiggiw3IB1DPRZyFPz-UTzCEQg4",
+},
+
 };
