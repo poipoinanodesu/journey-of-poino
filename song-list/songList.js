@@ -191,7 +191,7 @@ const songCollection = {
 "Fluquor - Deemo Piano Collection": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/8158449",
-"linkMega": "https://mega.nz/file/eeID1I6b#RjN56nnZwrDXMymzPMqA4fL2adOoP10FLQlw1jGyWh0",
+"linkMega": "https://mega.nz/file/yKhW0TaR#5yYCDdzLiEg9AGSLtXIkGIUMkhYomVUDiVfqKk8bh1o",
 },
 
 "A Beautiful Song - NieR Automata Piano Collection": {
