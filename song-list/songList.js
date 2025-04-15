@@ -1,6 +1,6 @@
 /*
 Song Name
-category: song category
+category: song category; vocaloid, anime, game, modern
 linkMusescore: Musescore link
 linkMega: raw link
 linkMegaComment: comment link
@@ -285,6 +285,13 @@ const songCollection = {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/21015622",
 "linkMega": "https://mega.nz/file/jPRVlZgb#6QoQQD2HHwngdGajF7pMEBvFVbVLOx2QUVvzAd3H1IY",
+},
+
+"The Wind Forest - Tonari no Totoro": {
+"category": "game",
+"linkMusescore": "https://musescore.com/user/18011801/scores/24713062",
+"linkMega": "https://mega.nz/file/6ewE0RCL#hE8P2jsuQcrmCFGVn1nAMqLPcGtfMk4yhAmyV-SgVlc",
+"linkMegaComment": "https://mega.nz/file/afJ0Ab7I#26O1Pt6OpBJp0DaeXnzSQ-GgbUD7mQmYqwqPazBgBbo",
 },
 
 };
