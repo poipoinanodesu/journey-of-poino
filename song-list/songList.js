@@ -245,7 +245,7 @@ const songCollection = {
 "Tsukiyo no Ongakukai ~Anata to Kimi to~ - The Liar Princess and the Blind Prince": {
 "category": "game",
 "linkMusescore": "https://musescore.com/user/18011801/scores/12684739",
-"linkMega": "https://mega.nz/file/jDJmTIZD#k1E9ovSuEYyCGVmwNmUMY-LR8t716XbT-Mwwj2D3fvQ",
+"linkMega": "https://mega.nz/file/qO5lEZhb#LfSs8kRfj5L9br1x0d2YmhWg5ma1z_qdakSXB8LcBA4",
 },
 
 "River Flow in You - Yiruma": {
