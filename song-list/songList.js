@@ -287,10 +287,16 @@ const songCollection = {
 },
 
 "The Wind Forest - Tonari no Totoro": {
-"category": "game",
+"category": "anime",
 "linkMusescore": "https://musescore.com/user/18011801/scores/24713062",
 "linkMega": "https://mega.nz/file/6ewE0RCL#hE8P2jsuQcrmCFGVn1nAMqLPcGtfMk4yhAmyV-SgVlc",
 "linkMegaComment": "https://mega.nz/file/afJ0Ab7I#26O1Pt6OpBJp0DaeXnzSQ-GgbUD7mQmYqwqPazBgBbo",
+},
+
+"Ichiban no Takara Mono - Angel Beats": {
+"category": "anime",
+"linkMega": "https://mega.nz/file/2eozlBiS#6ELzjbg_2uWNhWqnfQSxPKZXqFNv2huDZp2al20mqdk",
+"linkMegaComment": "https://mega.nz/file/aXYGCLqS#OtrbX8n5ITi1WwojpKx5hleMYFMuvu_ouV5jC2RCa_w",
 },
 
 };
