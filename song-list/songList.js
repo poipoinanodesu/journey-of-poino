@@ -299,13 +299,13 @@ const songCollection = {
 
 "Days of Love – ATRI -My Dear Moments-": {
 "category": "game",
-"linkMusescore": "https://musescore.com/score/stats/score/index?score_id=27403579",
+"linkMusescore": "https://musescore.com/user/18011801/scores/27403579",
 "linkMega": "https://www.dropbox.com/scl/fi/8ir7zbv750rpllccgraga/ATRI-Days-Of-Love.pdf?rlkey=1bhypz689brrcrs0omdrv2dea&st=zhhn4mdc&dl=0",
 },
 
 "Weight of the World - NieR Automata Piano Collection": {
 "category": "game",
-"linkMusescore": "https://musescore.com/score/stats/score/index?score_id=29367350",
+"linkMusescore": "https://musescore.com/user/18011801/scores/29367350",
 "linkMega": "https://www.dropbox.com/scl/fi/1s2vkwbiyzngc69a1be57/NieR-Automata-Weight-of-the-World.pdf?rlkey=15gq2vktovycjq17exvuff443&st=tg9k1ob9&dl=0",
 },
 
