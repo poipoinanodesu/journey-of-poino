@@ -8,7 +8,7 @@ function generateSongList(sortBy = "alphabetically") {
         songName = Object.keys(songCollection).sort();
     } else if (sortBy === "uploadDate") {
         // Use the original order (by "upload date")
-        songName = Object.keys(songCollection);
+        songName = Object.keys(songCollection).reverse();
     } else {
         console.error("Invalid sortBy option. Defaulting to alphabetical sorting.");
         songName = Object.keys(songCollection).sort();

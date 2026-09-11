@@ -309,4 +309,11 @@ const songCollection = {
 "linkMega": "https://www.dropbox.com/scl/fi/1s2vkwbiyzngc69a1be57/NieR-Automata-Weight-of-the-World.pdf?rlkey=15gq2vktovycjq17exvuff443&st=tg9k1ob9&dl=0",
 },
 
+"Constant Moderato - Blue Archive": {
+"category": "game",
+"linkMusescore": "https://musescore.com/user/18011801/scores/34936490",
+"linkMega": "https://www.dropbox.com/scl/fi/s3zd0ypccnug7033zmrbj/Blue-Archive-Constant-Moderato.pdf?rlkey=lupfbh3ft49w6auq1sqplozx7&st=kbzriguc&dl=0",
+"linkMegaComment": "https://www.dropbox.com/scl/fi/flx2vak4em9yczqhvydzu/Blue-Archive-Constant-Moderato-comment.pdf?rlkey=hdvut1k85rga9kuo3a8md2syp&st=ekn4535f&dl=0",
+},
+
 };
